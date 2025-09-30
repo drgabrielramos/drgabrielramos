@@ -14,6 +14,20 @@
 </picture>
     
 </div>
+I currently work on software development for intelligent dental clinic management, combining technology and dentistry to create solutions that simplify the daily lives of dentists and managers.
+
+🚀 I'm currently focused on improving my skills in:
+
+React ⚛️
+
+TypeScript 📘
+
+NestJS 🛠️
+
+I'm always looking to learn new technologies, develop scalable solutions, and contribute to projects that have a real impact.
+
+📫 You can find me here on GitHub or on other networks (add your links if you'd like).
+
 <br>
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -31,16 +45,9 @@
   
 </div>
 
-💻 Atualmente trabalho com desenvolvimento de software para gestão inteligente de clínicas odontológicas, unindo tecnologia e odontologia para criar soluções que facilitam a rotina de dentistas e gestores.
-
-🚀 No momento, estou focado em aprimorar minhas habilidades em:
-
-React ⚛️
-
-TypeScript 📘
-
-NestJS 🛠️
-
-✨ Busco sempre aprender novas tecnologias, desenvolver soluções escaláveis e contribuir para projetos que tenham impacto real.
-
-📫 Você pode me encontrar aqui no GitHub ou em outras redes (adicione seus links se quiser).
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=anuraghazra" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=anuraghazra&layout=compact&langs_count=8&card_width=320" />
+</a>
