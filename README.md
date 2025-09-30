@@ -2,7 +2,7 @@
   <img width="48%" height=180px align="center" src="https://github-readme-stats.vercel.app/api?username=drgabrielramos&theme=dark&card_width=320" />
 </a>
 <a href="https://github.com/drgabrielramos/convoychat">
-  <img width="48%" height=210px  align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=drgabrielramos&layout=compact&langs_count=8&card_width=320&theme=dark" />
+  <img width="48%" height=230px  align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=drgabrielramos&layout=compact&langs_count=8&card_width=320&theme=dark" />
 </a>
 
 <br>
